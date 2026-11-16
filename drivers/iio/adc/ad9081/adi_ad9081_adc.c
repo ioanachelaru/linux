@@ -4784,3 +4784,5 @@ int32_t adi_ad9081_adc_offset_calibration_set(adi_ad9081_device_t *device,
 }
 
 /*! @} */
+
+/* copyright check test */
