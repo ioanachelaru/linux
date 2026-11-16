@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   checks:
-    uses: analogdevicesinc/linux/.github/workflows/checks.yml@ci
+    uses: ioanachelaru/linux/.github/workflows/checks.yml@copyright-license-ci
     if: (github.event_name != 'push' || github.repository_owner == 'analogdevicesinc')
     secrets: inherit
     permissions:

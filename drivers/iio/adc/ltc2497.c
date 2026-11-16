@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: GPL-2.0-only
+// SPDX-License-Identifier: GPL-2.0-only 
 /*
  * ltc2497.c - Driver for Analog Devices/Linear Technology LTC2497 ADC
  *
